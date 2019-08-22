@@ -1,6 +1,5 @@
 ---
 applications:
 - buildpack: https://github.com/cloudfoundry/staticfile-buildpack
-  name: Puppy_IC
+  name: Puppy_ICRG_ToolChain
   memory: 56M
-  random-route: true
